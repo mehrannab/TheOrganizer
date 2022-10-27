@@ -18,7 +18,6 @@ import { Ionicons } from '@expo/vector-icons';
 export default function App() {
   const Stack = createStackNavigator();
   const Drawer = createDrawerNavigator();
-  const git = 1;
 
   function DrawerNavigation() {
     return (
